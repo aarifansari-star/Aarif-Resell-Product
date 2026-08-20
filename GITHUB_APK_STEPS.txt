@@ -1,0 +1,18 @@
+RESSELL STORE - BUILD APK ON GITHUB WITHOUT ANDROID STUDIO
+
+1. Create a new GitHub repository.
+2. Upload ALL files and folders from this project into the repository root.
+3. Open the repository -> Actions.
+4. Select "Build Resell Store APK".
+5. Click "Run workflow" (or push to main/master to trigger it).
+6. Wait for the workflow to finish with a green check.
+7. Open the completed workflow run.
+8. Scroll to Artifacts.
+9. Download "Resell-Store-debug-APK".
+10. Extract it and install app-debug.apk on your Android phone.
+
+The app opens this CodeFlying Share URL:
+https://myapp.codeflying.app/172353286/?share_key=BfOdQiIO4dk&lang=en-US
+
+IMPORTANT:
+This APK depends on the CodeFlying Share URL remaining accessible.
